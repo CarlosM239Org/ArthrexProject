@@ -1,4 +1,4 @@
-5. Preliminary operational concept of proposed system
+#5. Preliminary operational concept of proposed system
 
 5.1 Preliminary operational concept
 The proposed system is to redesign the existing social application. The system aims to improve user experience by making the application more visually 
