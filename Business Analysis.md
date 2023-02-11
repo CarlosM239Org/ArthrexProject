@@ -93,8 +93,14 @@ any servers or hardware that work with the system to make sure that all the user
 It is important to not only apply this to user data but to also company data that can be compromised if not deleted properly.
 
 7. Project Constraints
-The project has several constraints that may impact it to be completed. The constraints are a limited budget, which may not be enough to cover all the necessary expenses such as development costs hardware and software costs and employee salaries. Unforeseen expenses may also arise during the project, such changes in project scope. Resource constraints can  impact the project, because the project may need more resources than planned. Examples are employees needing to work longer hours which will increase the cost of the project. Time constraints like a a short deadline, which in this case my sponsor wants to finish the project within a year and this can impact the project because going back to working hours the project team will probably need to work longer schedules in order to finish the deadline.
-
+The project has several constraints that may impact it to be completed. The constraints are a limited budget, 
+which may not be enough to cover all the necessary expenses such as development costs hardware and software costs 
+and employee salaries. Unforeseen expenses may also arise during the project, such changes in project scope. 
+Resource constraints can  impact the project, because the project may need more resources than planned. 
+Examples are employees needing to work longer hours which will increase the cost of the project. 
+Time constraints like a a short deadline, which in this case my sponsor wants to finish the project within a 
+year and this can impact the project because going back to working hours the project team will probably 
+need to work longer schedules in order to finish the deadline.
 
 8. Appendix
 
